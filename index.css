@@ -1,0 +1,16 @@
+td {
+    text-align: center;
+    border: 1px solid;
+}
+table {
+    width: 540px;
+    height: 540px;
+}
+button {
+    height: 180px;
+    width: 180px;
+    font-size: 100px;
+}
+#winner {
+    color: green;
+}
